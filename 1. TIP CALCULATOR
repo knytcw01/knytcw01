@@ -1,0 +1,15 @@
+"""declare the variable meal and assign it the value 44.50
+Create the variable tax and set it equal to the decimal value of 6.75%
+Set the variable tip to decimal value of 15%
+"""
+meal = 44.50
+tax = 6.75 / 100
+tip = 15.0 / 100
+
+#reassign meal to the value of itself + itself * tax
+meal = meal + meal * tax
+#Assign the variable total to the sum of meal + meal * tip
+total = meal + meal * tip
+
+#prints to the console the value of total with exactly two numbers after the decimal
+print("%.2f" % total)
