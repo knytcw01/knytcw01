@@ -1,3 +1,11 @@
 StockId,Active,Name,Price,Volume(M),MarketCap(B),PERatio(TTM)
 1,Y,Advanced Micro Devices Inc,9.64,41.78,9.41,242.75
-2,N,Bank of America Corporation,29.51,29.876,302.119,
+2,N,Bank of America Corporation,29.51,29.876,302.119,18.95
+3,N,Micron Technology Inc,52.04,32.954,60.887,8.21
+4,Y,Facebook Inc,152.84,28.12,446.934,28.54
+5,Y,General Electric Company,12.98,26.924,112.886,
+6,Y,Ford Motor Company,11.20,23.179,44.903,5.92
+7,Y,Apple Inc,169.07,17.55,862.176,17.52
+8,N,Alibaba Group Holding Limited,169.41,15.949,440.769,42.19
+9,Y,Microsoft Corporation,90.03,14.748,695.83,73.47
+10,N,Snap Inc,14.45,14.592,17.863,
