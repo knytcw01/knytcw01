@@ -1,5 +1,5 @@
 StockId,Active,CompanyName,Price,Volume(M),MarketCap(B),PERatio(2017),PERatio(2016),PERatio(2015)
-1,Y,"AMDI,Advanced Micro Devices Inc",9.64,41,9,242.75,215.66,270.23
+1,Y,"AMDI,Advanced Micro Devices Inc",9.64,41,9,242.75,215.66,210.23
 2,N,"BOAC,Bank of America Corporation",29.51,29,302,18.95,16.21,15.69
 3,N,"MTI,Micron Technology Inc",52.04,32,60,8.21,10.25,7.64
 4,Y,"FI,Facebook Inc",152.84,28,446,28.54,36.27,20.98
