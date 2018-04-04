@@ -1,11 +1,11 @@
 StockId,Active,CompanyName,Price,Volume(M),MarketCap(B),PERatio(TTM)
 1,Y,"AMDI,Advanced Micro Devices Inc",9.64,41,9,242.75
-2,N,Bank of America Corporation,29.51,29,302,18.95
-3,N,Micron Technology Inc,52.04,32,60,8.21
-4,Y,Facebook Inc,152.84,28,446,28.54
-5,Y,General Electric Company,12.98,26,112,
-6,Y,Ford Motor Company,11.20,23,44,5.92
-7,Y,Apple Inc,169.07,17,862,17.52
-8,N,Alibaba Group Holding Limited,169.41,15,440,42.19
-9,Y,Microsoft Corporation,90.03,14,695,73.47
-10,N,Snap Inc,14.45,14,17,
+2,N,"BOAC,Bank of America Corporation",29.51,29,302,18.95
+3,N,"MTI,Micron Technology Inc",52.04,32,60,8.21
+4,Y,"FI,Facebook Inc",152.84,28,446,28.54
+5,Y,"GEC,General Electric Company",12.98,26,112,
+6,Y,"FMC,Ford Motor Company",11.20,23,44,5.92
+7,Y,"AI,Apple Inc",169.07,17,862,17.52
+8,N,"AGHL,Alibaba Group Holding Limited",169.41,15,440,42.19
+9,Y,"MC,Microsoft Corporation",90.03,14,695,73.47
+10,N,"SI,Snap Inc",14.45,14,17,
